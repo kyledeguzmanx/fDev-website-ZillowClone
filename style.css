@@ -1,1 +1,9 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+html {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-size: 62.5%;
+}
+/*# sourceMappingURL=style.css.map */
