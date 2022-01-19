@@ -38,6 +38,7 @@ nav a {
   text-decoration: none;
   padding-right: 29px;
   font-size: 16px;
+  text-transform: capitalize;
 }
 
 nav .nav-left {
@@ -53,5 +54,54 @@ nav .nav-right {
   background: url(img/banner-bg.jpg);
   background-size: cover;
   background-position: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+#banner div {
+  height: 100%;
+  width: 70%;
+  text-align: center;
+  line-height: 0.3;
+}
+
+#banner p {
+  padding-top: 100px;
+  color: white;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+#banner input {
+  min-width: 354px;
+  width: 900%;
+  max-width: 670px;
+  height: 65px;
+  margin: 0 auto;
+  border-radius: 7px;
+  color: grey;
+  padding-left: 20px;
+  background-color: #f6f6fa;
+  font-size: 17px;
+  margin-right: -70px;
+}
+
+#banner button {
+  background-color: #f6f6fa;
+  font-size: 17px;
+  padding: 20px;
+  height: 65px;
+  border: none;
 }
 /*# sourceMappingURL=style.css.map */
