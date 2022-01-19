@@ -169,6 +169,30 @@ nav .nav-right {
   font-size: 17px;
 }
 
+footer #footer-row1 {
+  text-align: center;
+  padding: 30px 20px;
+  border-top: 1px solid #d8d8d8;
+  border-bottom: 1px solid #d8d8d8;
+}
+
+footer #footer-row1 a {
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 2.3;
+  text-decoration: none;
+  color: black;
+  padding-right: 25px;
+}
+
+footer #footer-row1 a:hover {
+  text-decoration: underline;
+}
+
+footer #footer-row1 p a {
+  color: #0d4599;
+}
+
 footer #footer-row2 {
   padding-top: 15px;
   width: 55%;
