@@ -63,7 +63,7 @@ nav{
     }
     input{
         min-width: 354px;
-        width: 900%;
+        width: 80%;
         max-width: 670px;
         height: 65px;
         margin: 0 auto;
@@ -143,11 +143,37 @@ footer{
         }
     }
     #footer-socials{
-        width: 50%;
+ 
         margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
         #footer-logo{
             width: 143px;
             display: inline;
+        }
+        p{
+            padding-left: 20px;
+            display:inline;
+            color: gray;
+            font-style: italic;
+        }
+        i{
+            font-size: 23px;
+            padding: 5px;
+        }
+        .fa-facebook{
+            color: #1877f2;
+        }
+        .fa-instagram{
+            color: #0d4599;
+        }
+        .fa-tiktok{
+            color: #006aff;
+        }
+        .fa-twitter{
+            color: #55acee;
         }
     }
     

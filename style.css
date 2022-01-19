@@ -86,7 +86,7 @@ nav .nav-right {
 
 #banner input {
   min-width: 354px;
-  width: 900%;
+  width: 80%;
   max-width: 670px;
   height: 65px;
   margin: 0 auto;
@@ -186,13 +186,53 @@ footer #footer-apps img {
 }
 
 footer #footer-socials {
-  width: 50%;
   margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 footer #footer-socials #footer-logo {
   width: 143px;
   display: inline;
+}
+
+footer #footer-socials p {
+  padding-left: 20px;
+  display: inline;
+  color: gray;
+  font-style: italic;
+}
+
+footer #footer-socials i {
+  font-size: 23px;
+  padding: 5px;
+}
+
+footer #footer-socials .fa-facebook {
+  color: #1877f2;
+}
+
+footer #footer-socials .fa-instagram {
+  color: #0d4599;
+}
+
+footer #footer-socials .fa-tiktok {
+  color: #006aff;
+}
+
+footer #footer-socials .fa-twitter {
+  color: #55acee;
 }
 
 #footer-img {
