@@ -113,8 +113,8 @@ nav .nav-right {
   background-color: #f9f9fb;
   text-align: center;
   letter-spacing: 0.3px;
-  font-size: 20px;
-  font-weight: 700;
+  font-size: 19px;
+  font-weight: 800;
   line-height: 0.1;
 }
 
@@ -141,9 +141,31 @@ nav .nav-right {
   line-height: 1;
   -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 15px;
           box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 15px;
+  padding: 10px 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 #main #cards-container .card img {
   width: 65%;
+}
+
+#main #cards-container .card h2 {
+  font-size: 23px;
+  font-weight: 700;
+}
+
+#main #cards-container .card p {
+  line-height: 1.5;
+  font-weight: 200;
+  font-size: 17px;
 }
 /*# sourceMappingURL=style.css.map */
