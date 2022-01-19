@@ -169,6 +169,32 @@ nav .nav-right {
   font-size: 17px;
 }
 
+footer #footer-row2 {
+  padding-top: 15px;
+  width: 55%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+footer #footer-apps {
+  width: 250px;
+  margin: 0 auto;
+}
+
+footer #footer-apps img {
+  height: 41px;
+}
+
+footer #footer-socials {
+  width: 50%;
+  margin: 0 auto;
+}
+
+footer #footer-socials #footer-logo {
+  width: 143px;
+  display: inline;
+}
+
 #footer-img {
   height: 214px;
   background: url(img/footer.png);

@@ -126,6 +126,32 @@ nav{
         }
     }
 }
+footer{
+    #footer-row2{
+        padding-top:15px;
+        width: 55%;
+        margin: 0 auto;
+        text-align: center;
+
+    }
+    #footer-apps{
+
+        width: 250px;
+        margin: 0 auto;
+        img{
+            height: 41px;
+        }
+    }
+    #footer-socials{
+        width: 50%;
+        margin: 0 auto;
+        #footer-logo{
+            width: 143px;
+            display: inline;
+        }
+    }
+    
+}
 #footer-img{
     height:214px;
     background: url(img/footer.png);
