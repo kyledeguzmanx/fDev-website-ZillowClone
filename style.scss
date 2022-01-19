@@ -5,6 +5,7 @@ html{
 body{
     margin:0;
     font-size: 62.5%;
+    font-family: 'Roboto', sans-serif;
 }
 
 nav{
@@ -38,7 +39,7 @@ nav{
 }
 
 #banner{
-    height: 503px;
+    height: 513px;
     background: url(img/banner-bg.jpg);
     background-size: cover;
     background-position: center;
@@ -87,6 +88,7 @@ nav{
     padding-bottom: 146px;
     background-color: #f9f9fb;
     text-align: center;
+    letter-spacing: 0.3px;
     font-size: 20px;
     font-weight: 700;
     line-height: 0.1;
@@ -96,8 +98,18 @@ nav{
         flex-direction: row;
         justify-content: space-around;
         align-items: center;
-        div{
+        margin-top: 43px;
+        
+        .card{
             background-color: #ffffff;
+            height: 467px;
+            width: 30%;
+            line-height:1;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 15px;
+
+            img{
+                width: 65%;
+            }
         }
     }
 }
