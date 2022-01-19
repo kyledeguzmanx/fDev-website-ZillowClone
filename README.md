@@ -9,6 +9,10 @@ Original:
 ![Zillow Homepage](https://github.com/kyledeguzmanx/fDev-website-ZillowClone/blob/master/img/Screenshots/ZillowOF.png)  
 Project:  
 ![Homepage OF](https://github.com/kyledeguzmanx/fDev-website-ZillowClone/blob/master/img/Screenshots/Screen1.png?raw=true)  
+Original:  
+![Zillow Homepage](https://github.com/kyledeguzmanx/fDev-website-ZillowClone/blob/master/img/Screenshots/ZillowOF2.png)  
+Project:  
+![Homepage OF](https://github.com/kyledeguzmanx/fDev-website-ZillowClone/blob/master/img/Screenshots/Screen2.png?raw=true)  
 
 ## CREDITS
 - Box Shadows from [Get CSS Scan](https://getcssscan.com/css-box-shadow-examples)  
