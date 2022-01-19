@@ -4,6 +4,11 @@
 
 ## SCREENSHOTS 
 
+Original:  
+![Zillow Homepage](https://github.com/kyledeguzmanx/fDev-website-ZillowClone/blob/master/img/Screenshots/ZillowOF.png)  
+Project:  
+![Homepage OF](https://github.com/kyledeguzmanx/fDev-website-ZillowClone/blob/master/img/Screenshots/Screen1.png?raw=true)  
+
 ## CREDITS
 - [Image Color Picker](https://imagecolorpicker.com/)  
 - Font Awesome Icons   
