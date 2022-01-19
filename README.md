@@ -1,7 +1,11 @@
 # INTRODUCTION
+This is a clone of the [Zillow](https://www.zillow.com/) website built with Vanilla Javascript, HTML, and SCSS.  
 
+Live site: https://kyledeguzmanx.github.io/fDev-website-ZillowClone/  
 ## TECHNOLOGY USED 
-
+- Live Sass Compiler  
+- Image Color Picker  
+- Pixel Ruler  
 
 ## SCREENSHOTS 
 
