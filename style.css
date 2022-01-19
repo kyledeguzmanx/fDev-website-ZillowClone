@@ -168,4 +168,12 @@ nav .nav-right {
   font-weight: 200;
   font-size: 17px;
 }
+
+#footer-img {
+  height: 214px;
+  background: url(img/footer.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
 /*# sourceMappingURL=style.css.map */
