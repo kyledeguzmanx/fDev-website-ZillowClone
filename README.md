@@ -7,6 +7,17 @@ Live site: https://kyledeguzmanx.github.io/fDev-website-ZillowClone/
 - Image Color Picker  
 - Pixel Ruler  
 
+## PROCESS
+
+To start, I am clearly using Zillow's official website as a reference. I am also looking at the page source code -- PURELY TO COLLECT PNGs, jpegs, and svg links. But aside from that, I am not looking at their CSS stylings.    
+
+I am using a Pixel Ruler to calculate the side of spacing, images, or other DOM elements. I am merely guessing the sizes of text and headers which is why it doesn't look exact. I am also using similar fonts, so it's not exact. And for the colors, I am using a Picture-to-Hex-Code converter. I am taking screenshots and grabbing the colors from those screenshots.
+
+And I am also constantly playing around with the screen sizes. How are the text sizing changing? How are the images responding? In Zillow, a lot of the DOM elements are fixed sizes. And after a certain window size, it will change. This suggests to me that media queries are used, rather than viewport or percentage units.  
+
+And on that note of responsive web design, I am probably not going to do media queries for this project. That's to be determined.
+
+
 ## SCREENSHOTS 
 
 Original:  
