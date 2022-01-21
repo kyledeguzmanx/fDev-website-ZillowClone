@@ -216,6 +216,16 @@ nav .nav-right {
 #find-agent #find-agent-1 {
   width: 60%;
   text-align: left;
+  /*  #find-btn{
+          
+            padding: 20px 76px;
+            background-color:  #006aff;
+            text-align: center;
+            font-size: 17px;
+            font-weight: 600;
+            color: white;
+            border-radius: 5px;
+        }*/
 }
 
 #find-agent #find-agent-1 h2 {
@@ -226,6 +236,30 @@ nav .nav-right {
 #find-agent #find-agent-1 p {
   font-size: 16px;
   line-height: 1.7;
+}
+
+#find-agent #find-agent-1 a {
+  text-decoration: none;
+}
+
+#find-agent #find-agent-1 #find-btn {
+  width: 255px;
+  padding: 18px 0;
+  overflow: hidden;
+  background-color: #006aff;
+  text-align: center;
+  font-size: 17px;
+  font-weight: 600;
+  color: white;
+  border-radius: 5px;
+  display: block;
+  margin-bottom: 25px;
+}
+
+#find-agent #find-agent-1 a {
+  color: #154fab;
+  font-size: 17px;
+  font-weight: 900;
 }
 
 #find-agent #find-agent-2 {
