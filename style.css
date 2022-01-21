@@ -201,6 +201,41 @@ nav .nav-right {
   font-size: 17px;
 }
 
+#find-agent {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  place-items: center;
+  margin-left: 100px;
+}
+
+#find-agent #find-agent-1 {
+  width: 60%;
+  text-align: left;
+}
+
+#find-agent #find-agent-1 h2 {
+  font-size: 50px;
+  font-weight: 1300;
+}
+
+#find-agent #find-agent-1 p {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+#find-agent #find-agent-2 {
+  width: 40%;
+}
+
+#find-agent img {
+  width: 395px;
+}
+
 footer #footer-row1 {
   text-align: center;
   padding: 30px 20px;

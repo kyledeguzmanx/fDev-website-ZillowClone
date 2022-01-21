@@ -147,6 +147,32 @@ nav{
         }
     }
 }
+#find-agent{
+    display: flex;
+    flex-direction: row;
+    place-items: center;
+
+    margin-left: 100px;
+    #find-agent-1{
+        width: 60%;
+        text-align: left;
+
+        h2{
+            font-size: 50px;
+            font-weight: 1300;
+        }
+        p{
+            font-size: 16px;
+            line-height: 1.7;
+        }
+    }
+    #find-agent-2{
+        width: 40%;
+    }
+    img{
+        width: 395px;
+    }
+}
 footer{
     #footer-row1{
         text-align: center;
