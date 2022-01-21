@@ -38,7 +38,7 @@ nav{
     }
 }
 
-#banner{
+.banner{
     height: 513px;
     background: url(img/banner-bg.jpg);
     background-size: cover;
@@ -81,6 +81,10 @@ nav{
         height: 65px;
         border: none;
     }
+}
+#banner-sell{
+    background: url(img/banner-sell.png);
+    background-size: cover;
 }
 #main{
     margin-top:-10px;

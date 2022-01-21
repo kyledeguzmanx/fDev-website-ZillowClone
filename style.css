@@ -50,7 +50,7 @@ nav .nav-right {
   margin-right: 14px;
 }
 
-#banner {
+.banner {
   height: 513px;
   background: url(img/banner-bg.jpg);
   background-size: cover;
@@ -70,21 +70,21 @@ nav .nav-right {
           align-items: flex-start;
 }
 
-#banner div {
+.banner div {
   height: 100%;
   width: 70%;
   text-align: center;
   line-height: 0.3;
 }
 
-#banner p {
+.banner p {
   padding-top: 100px;
   color: white;
   font-size: 40px;
   font-weight: 800;
 }
 
-#banner input {
+.banner input {
   min-width: 354px;
   width: 80%;
   max-width: 670px;
@@ -98,12 +98,17 @@ nav .nav-right {
   margin-right: -70px;
 }
 
-#banner button {
+.banner button {
   background-color: #f6f6fa;
   font-size: 17px;
   padding: 20px;
   height: 65px;
   border: none;
+}
+
+#banner-sell {
+  background: url(img/banner-sell.png);
+  background-size: cover;
 }
 
 #main {
