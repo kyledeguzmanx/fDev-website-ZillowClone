@@ -109,6 +109,7 @@ nav .nav-right {
 #banner-sell {
   background: url(img/banner-sell.png);
   background-size: cover;
+  background-position: bottom;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -116,9 +117,10 @@ nav .nav-right {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  height: 410px;
 }
 
 #banner-sell div {
@@ -126,14 +128,15 @@ nav .nav-right {
 }
 
 #banner-sell h1 {
-  font-size: 50px;
-  font-weight: 800;
+  padding-top: 40px;
+  font-size: 45px;
+  font-weight: 900;
 }
 
 #banner-sell p {
   color: black;
   padding: 0;
-  line-height: 1;
+  line-height: 0.3;
   font-weight: 500;
   font-size: 22px;
 }
@@ -280,12 +283,16 @@ nav .nav-right {
           flex-direction: row;
   margin-left: 100px;
   width: 70%;
-  background-color: red;
 }
 
 #sell-traditionally #why-traditional {
   min-width: 380px;
   background-color: orange;
+}
+
+#sell-traditionally #how-traditional {
+  min-width: 480px;
+  background-color: blue;
 }
 
 footer #footer-row1 {
