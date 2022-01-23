@@ -40,7 +40,11 @@ Project:
 Original:  
 ![Zillow Homepage](https://github.com/kyledeguzmanx/fDev-website-ZillowClone/blob/master/img/Screenshots/ZillowOF5.png)  
 Project:  
-![Homepage OF](https://github.com/kyledeguzmanx/fDev-website-ZillowClone/blob/master/img/Screenshots/Screen5.png?raw=true)  
+![Homepage OF](https://github.com/kyledeguzmanx/fDev-website-ZillowClone/blob/master/img/Screenshots/Screen5.png?raw=true) 
+Original:  
+![Zillow Homepage](https://github.com/kyledeguzmanx/fDev-website-ZillowClone/blob/master/img/Screenshots/ZillowOF6.png)  
+Project:  
+![Homepage OF](https://github.com/kyledeguzmanx/fDev-website-ZillowClone/blob/master/img/Screenshots/Screen6.png?raw=true)  
 
 ## CREDITS
 - Box Shadows from [Get CSS Scan](https://getcssscan.com/css-box-shadow-examples)  
