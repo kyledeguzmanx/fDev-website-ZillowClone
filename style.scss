@@ -212,6 +212,17 @@ nav{
     display: flex;
     flex-direction: row;
     margin-left: 100px;
+    width: 70%;
+   
+    #why-traditional{
+        min-width: 380px;
+        background-color: orange;
+    }
+    #how-traditional{
+        min-width: 480px;
+        background-color: blue;
+    }
+}
 }
 footer{
     #footer-row1{

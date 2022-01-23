@@ -279,6 +279,13 @@ nav .nav-right {
       -ms-flex-direction: row;
           flex-direction: row;
   margin-left: 100px;
+  width: 70%;
+  background-color: red;
+}
+
+#sell-traditionally #why-traditional {
+  min-width: 380px;
+  background-color: orange;
 }
 
 footer #footer-row1 {
