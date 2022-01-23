@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
 html {
   margin: 0;
@@ -282,17 +283,36 @@ nav .nav-right {
       -ms-flex-direction: row;
           flex-direction: row;
   margin-left: 100px;
-  width: 70%;
+  width: 65%;
 }
 
 #sell-traditionally #why-traditional {
   min-width: 380px;
-  background-color: orange;
 }
 
 #sell-traditionally #how-traditional {
   min-width: 480px;
-  background-color: blue;
+  padding-left: 20px;
+}
+
+#sell-traditionally h3 {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+#sell-traditionally p {
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+#sell-traditionally li {
+  font-size: 17px;
+  line-height: 2.4;
+}
+
+#sell-traditionally ul {
+  list-style-type: "✔️   ";
 }
 
 footer #footer-row1 {
