@@ -348,6 +348,16 @@ nav .nav-right {
   list-style-type: "✔️   ";
 }
 
+#home-loans {
+  width: 100vw;
+  background-color: #e0f2ff;
+}
+
+#home-loans img {
+  margin-left: 130px;
+  height: 132px;
+}
+
 footer #footer-row1 {
   text-align: center;
   padding: 30px 20px;
