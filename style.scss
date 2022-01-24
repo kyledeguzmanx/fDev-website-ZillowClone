@@ -60,6 +60,7 @@ nav{
         color: white;
         font-size: 40px;
         font-weight: 800;
+        line-height: 1;
     }
     input{
         min-width: 354px;
@@ -97,13 +98,15 @@ nav{
         padding-top: 40px;
         font-size: 45px;
         font-weight: 900;
+        line-height: 1;
     }
     p{
         color: black;
         padding:0;
-        line-height: 0.3;
+        line-height: 1;
         font-weight: 500;
         font-size: 22px;
+        margin-top: -20px;
     }
 }
 #main{
