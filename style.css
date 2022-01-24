@@ -318,6 +318,35 @@ nav .nav-right {
   list-style-type: "✔️   ";
 }
 
+#sell-trusted {
+  margin-left: 100px;
+}
+
+#sell-trusted h3 {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+#sell-trusted h2 {
+  font-size: 50px;
+  font-weight: 1300;
+}
+
+#sell-trusted p {
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+#sell-trusted li {
+  font-size: 17px;
+  line-height: 2.4;
+}
+
+#sell-trusted ul {
+  list-style-type: "✔️   ";
+}
+
 footer #footer-row1 {
   text-align: center;
   padding: 30px 20px;

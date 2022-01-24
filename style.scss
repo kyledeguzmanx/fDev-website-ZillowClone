@@ -245,7 +245,30 @@ nav{
         list-style-type: "✔️   ";
     }
 }
-
+#sell-trusted{
+    margin-left: 100px;
+    h3{
+        font-size: 20px;
+        font-weight: 900;
+    }
+    h2{
+        font-size: 50px;
+        font-weight: 1300;
+    }
+    
+    p{
+        font-size: 17px;
+        font-weight: 300;
+        line-height: 1.6;
+    }
+    li{
+        font-size: 17px;
+        line-height: 2.4;
+    }
+    ul{
+        list-style-type: "✔️   ";
+    }
+}
 footer{
     #footer-row1{
         text-align: center;
