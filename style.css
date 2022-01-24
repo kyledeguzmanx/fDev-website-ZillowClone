@@ -318,21 +318,20 @@ nav .nav-right {
   list-style-type: "✔️   ";
 }
 
-#sell-trusted {
-  margin-left: 100px;
-}
-
 #sell-trusted h3 {
+  margin-left: 100px;
   font-size: 20px;
   font-weight: 900;
 }
 
 #sell-trusted h2 {
+  margin-left: 100px;
   font-size: 50px;
   font-weight: 1300;
 }
 
 #sell-trusted p {
+  margin-left: 100px;
   font-size: 17px;
   font-weight: 300;
   line-height: 1.6;
@@ -345,7 +344,22 @@ nav .nav-right {
 }
 
 #sell-trusted ul {
+  margin-left: 100px;
   list-style-type: "✔️   ";
+}
+
+#sell-trusted section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+#sell-trusted section img {
+  height: 250px;
 }
 
 #home-loans {

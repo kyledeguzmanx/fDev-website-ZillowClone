@@ -246,18 +246,20 @@ nav{
     }
 }
 #sell-trusted{
-    margin-left: 100px;
     
     h3{
+        margin-left: 100px;
         font-size: 20px;
         font-weight: 900;
     }
     h2{
+        margin-left: 100px;
         font-size: 50px;
         font-weight: 1300;
     }
     
     p{
+        margin-left: 100px;
         font-size: 17px;
         font-weight: 300;
         line-height: 1.6;
@@ -268,7 +270,15 @@ nav{
         line-height: 2.4;
     }
     ul{
+        margin-left: 100px;
         list-style-type: "✔️   ";
+    }
+    section{
+        display: flex;
+        flex-direction: row;
+        img{
+            height: 250px;
+        }
     }
 }
 #home-loans{
